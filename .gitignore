@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+*.log
+tmp/
+namer samples/
+2022-02-14/
